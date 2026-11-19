@@ -1,0 +1,6 @@
+{
+  "name": "VoiceFlow",
+  "description": "Sistem geneli sesli dikte ve anlık metin ekleme asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

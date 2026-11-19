@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceFlow</string>
+    <string name="accessibility_service_description">Metin alanlarına odaklanıldığında sesli dikte kontrolünü otomatik gösterir ve onaylandığında metni alana ekler. Parola alanlarında asla çalışmaz.</string>
+    <string name="accessibility_service_label">VoiceFlow Sesli Dikte</string>
+</resources>
